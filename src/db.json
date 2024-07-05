@@ -2,13 +2,13 @@
     "posts": [
         {
             "id": "1",
-            "title": "a title",
-            "views": "100"
+            "item": "a title",
+            "checked": false
         },
         {
             "id": "2",
-            "title": "b title",
-            "views": "200"
+            "item": "b title",
+            "checked": false
         }
     ]
 }
